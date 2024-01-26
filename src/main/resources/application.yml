@@ -5,7 +5,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/maybedo?serverTimezone=Asia/Seoul
-    username: cos
+    username: maybedo
     password: cos1234
   jpa:
     hibernate:
